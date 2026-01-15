@@ -1,0 +1,18 @@
+@media (max-width : 965px) {
+    .calculator{
+        width: auto;
+    height: 50vh;
+}  
+}
+@media (max-width : 230px) {
+    .calculator{
+   font-size: 1rem;
+   padding-inline: 0.4rem;
+}  
+}
+@media (max-width : 180px) {
+    .calculator{
+   font-size: 0.7rem;
+   padding-inline: 0.1rem;
+}  
+}
